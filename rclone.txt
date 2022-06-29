@@ -1,0 +1,7 @@
+[finitegdrive]
+type = drive
+drive = drive
+scope = drive
+token = {"access_token":"ya29.a0ARrdaM-7wk6WXOzh0-nPhZ3wQW2dazby4IJkfN-a9Vu6wwp4jJwsu1HcG-V7UVwySTg7bPDWFbLC306ynR-HBSgYS1
+team_drive = 0ALxKRcjoa_kBUk9PVA
+root_folder_id =
